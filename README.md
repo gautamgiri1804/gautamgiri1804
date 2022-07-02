@@ -27,7 +27,3 @@ Implementing GoogleSignIn and custom Email SignIn and SignUp using Firebase
 2. Must know the basic of Object-Oriented-Programming
 3. Clear your queries on StackOverFlow 
 
-### Author
-
-* **Manu Abhay Singhal** (https://github.com/abhay1205)
-"# Flutter-Authentication" 
